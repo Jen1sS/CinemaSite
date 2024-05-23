@@ -1,0 +1,121 @@
+[
+  {
+    "day": "Domenica",
+    "films": [
+      {
+        "title": "The Dark Knight",
+        "description": "Batman faces the Joker's chaos",
+        "director": "Christopher Nolan",
+        "poster": "img/darl.png"
+      },
+      {
+        "title": "Forrest Gump",
+        "description": "Life is like a box of chocolates",
+        "director": "Robert Zemeckis",
+        "poster": "img/forrestGump.png"
+      }
+    ]
+  },
+  {
+    "day": "Lunedì",
+    "films": [
+      {
+        "title": "Inception",
+        "description": "A mind-bending heist film",
+        "director": "Christopher Nolan",
+        "poster": "img/inception.png"
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "description": "A tale of hope and redemption",
+        "director": "Frank Darabont",
+        "poster": "img/redemption.png"
+      }
+    ]
+  },
+  {
+    "day": "Martedì",
+    "films": [
+      {
+        "title": "The Dark Knight",
+        "description": "Batman faces the Joker's chaos",
+        "director": "Christopher Nolan",
+        "poster": "img/darl.png"
+      },
+      {
+        "title": "Pulp Fiction",
+        "description": "Quentin Tarantino's iconic crime film",
+        "director": "Quentin Tarantino",
+        "poster": "img/pulp.png"
+      }
+    ]
+  },
+  {
+    "day": "Mercoledì",
+    "films": [
+      {
+        "title": "Forrest Gump",
+        "description": "Life is like a box of chocolates",
+        "director": "Robert Zemeckis",
+        "poster": "img/forrestGump.png"
+      },
+      {
+        "title": "The Matrix",
+        "description": "A journey into a simulated reality",
+        "director": "The Wachowskis",
+        "poster": "img/matrix.png"
+      }
+    ]
+  },
+  {
+    "day": "Giovedi",
+    "films": [
+      {
+        "title": "Schindler's List",
+        "description": "Steven Spielberg's powerful drama",
+        "director": "Steven Spielberg",
+        "poster": "img/lista.png"
+      },
+      {
+        "title": "The Godfather",
+        "description": "The epic tale of the Corleone family",
+        "director": "Francis Ford Coppola",
+        "poster": "img/godfather.png"
+      }
+    ]
+  },
+  {
+    "day": "Venerdi",
+    "films": [
+      {
+        "title": "Inglourious Basterds",
+        "description": "Quentin Tarantino's alternate history war film",
+        "director": "Quentin Tarantino",
+        "poster": "img/matti.png"
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "description": "A psychological thriller with Hannibal Lecter",
+        "director": "Jonathan Demme",
+        "poster": "img/silenzio.png"
+      }
+    ]
+  },
+  {
+    "day": "Sabato",
+    "films": [
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "description": "Epic fantasy based on J.R.R. Tolkien's novel",
+        "director": "Peter Jackson",
+        "poster": "img/lord.png"
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "description": "A tale of hope and redemption",
+        "director": "Frank Darabont",
+        "poster": "img/redemption.png"
+      }
+    ]
+  }
+]
